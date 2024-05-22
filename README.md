@@ -22,7 +22,7 @@ A responsive product landing page highlighting an eco-friendly water bottle, fea
 ![Features Section](images/Features_section.jpeg)
 
 ### Testimonials Section
-![Testimonials Section](images/Testimonials_and_contact_section.jpeg)
+![Testimonials Section](images/Testimonals_and_contact_section.jpeg)
 ## How to Use
 
 1. Clone or download the repository to your local machine.
