@@ -1,0 +1,199 @@
+/* General Resets and Font Settings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body Line Height */
+body {
+    line-height: 1.6;
+}
+
+/* Header Styles */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+/* Navigation Menu Styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Hero Section Styles */
+#hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+.hero-content {
+    max-width: 100%;
+}
+
+.hero-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.price {
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.colors {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.color-option {
+    font-weight: bold;
+}
+
+/* Call-to-Action Button Styles */
+.cta-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Features Section Styles */
+.features-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background: #fff;
+}
+
+.feature-heading {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.feature {
+    width: 100%;
+    max-width: 400px;
+    margin: 1rem 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure images maintain consistent height */
+.feature img {
+    max-width: 100%;
+    height: 200px; /* Fixed height for images */
+    object-fit: cover; /* Ensures the image covers the container */
+    border-radius: 10px;
+}
+
+/* Testimonials Section Styles */
+#testimonials {
+    background: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+}
+
+.testimonal-heading {
+    padding-bottom: 20px;
+}
+
+.testimonials-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonial {
+    max-width: 300px;
+    margin: 1rem 0;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+}
+
+.product-link {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #fff;
+    text-decoration: none;
+    background: #444444;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+/* Media Queries for Responsive Design */
+@media (min-width: 600px) {
+    #hero {
+        flex-direction: row;
+        text-align: left;
+    }
+
+    .hero-content {
+        max-width: 60%;
+    }
+
+    .features-container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .feature {
+        margin: 0 1rem;
+    }
+
+    .testimonials-container {
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .testimonial {
+        margin: 1rem;
+    }
+}
+
+@media (min-width: 900px) {
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+}
