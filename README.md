@@ -16,13 +16,13 @@ A responsive product landing page highlighting an eco-friendly water bottle, fea
 ## Screenshots
 
 ### Home Section
-![Home Section](images/Nav and Home section.jpeg)
+![Home Section](images/Nav_and_Home_section.jpeg)
 
 ### Features Section
-![Features Section](images/Features section.jpeg)
+![Features Section](images/Features_section.jpeg)
 
 ### Testimonials Section
-![Testimonials Section](images/Testimonials and contact section.jpeg)
+![Testimonials Section](images/Testimonials_and_contact_section.jpeg)
 ## How to Use
 
 1. Clone or download the repository to your local machine.
