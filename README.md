@@ -44,7 +44,7 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-- **Srividya Kuntla** - [GitHub Profile](https://github.com/your-srividya-kuntla)
+- **Srividya Kuntla** - [GitHub Profile](https://github.com/srividya-kuntla)
 
 ## Acknowledgments
 
