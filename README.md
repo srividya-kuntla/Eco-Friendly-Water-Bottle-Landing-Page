@@ -22,6 +22,7 @@ A responsive product landing page highlighting an eco-friendly water bottle, fea
 ![Features Section](images/Features_section.jpeg)
 
 ### Testimonials Section
+
 ![Testimonials Section](images/Testimonals_and_contact_section.jpeg)
 
 ## Product Link
