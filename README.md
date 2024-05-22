@@ -23,6 +23,10 @@ A responsive product landing page highlighting an eco-friendly water bottle, fea
 
 ### Testimonials Section
 ![Testimonials Section](images/Testimonals_and_contact_section.jpeg)
+
+## Product Link
+For more information or to purchase the eco-friendly water bottle, visit the [IKEA product page](https://www.ikea.com/in/en/p/ikea-365-water-bottle-dark-grey-00480014/?utm_source=bing&utm_medium=cpc&utm_campaign=Standard%20Shopping_All%20Products&utm_term=4588055870847128&utm_content=Ad%20group%20%231).
+
 ## How to Use
 
 1. Clone or download the repository to your local machine.
