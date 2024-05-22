@@ -13,6 +13,16 @@ A responsive product landing page highlighting an eco-friendly water bottle, fea
 - **Testimonials Section**: Displays customer reviews and feedback.
 - **Footer**: Contains contact information and links to purchase the product and navigate back to the top.
 
+## Screenshots
+
+### Home Section
+![Home Section](images/home.png)
+
+### Features Section
+![Features Section](images/features.png)
+
+### Testimonials Section
+![Testimonials Section](images/testimonials.png)
 ## How to Use
 
 1. Clone or download the repository to your local machine.
